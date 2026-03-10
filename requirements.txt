@@ -1,0 +1,6 @@
+streamlit
+Pillow
+rembg[cpu]
+PyPDF2
+fpdf
+pytesseract
